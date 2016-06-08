@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:25.365187
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:18
 #+TITLE: 維摩經略疏垂裕記
 #+PROPERTY: CBETA_ID T38n1779
 #+PROPERTY: ID KR6i0082
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 2
 ¶
 
- 維摩經略疏垂裕記卷第二¶
+ 
+** 2維摩經略疏垂裕記卷第二¶
 ¶
 錢唐沙門釋智圓述¶
 
