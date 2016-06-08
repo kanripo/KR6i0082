@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:26.183570
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:18
 #+TITLE: 維摩經略疏垂裕記
 #+PROPERTY: CBETA_ID T38n1779
 #+PROPERTY: ID KR6i0082
