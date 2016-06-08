@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:25.577138
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:18
 #+TITLE: 維摩經略疏垂裕記
 #+PROPERTY: CBETA_ID T38n1779
 #+PROPERTY: ID KR6i0082
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1779
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0082_T_007-0794c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 維摩經略疏垂裕記卷第七¶
+維摩經略疏垂裕記卷第七¶
 ¶
 錢唐沙門釋智圓述¶
 
@@ -253,11 +252,7 @@
 但述半教之身因耳。藉今彈訶即成常住之¶
 真因也。¶
 
-4菩薩品(七-八)
-:PROPERTIES:
-:head: 菩薩品
-:END:
-
+* 菩薩品
 
 三菩薩品折伏自體緣集二。¶
 初敘意分章。二依章解釋三。初正明此品來¶

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:25.493433
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:18
 #+TITLE: 維摩經略疏垂裕記
 #+PROPERTY: CBETA_ID T38n1779
 #+PROPERTY: ID KR6i0082
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1779
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0082_T_005-0767b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 維摩經略疏垂裕記卷第五¶
+維摩經略疏垂裕記卷第五¶
 ¶
 錢唐沙門釋智圓述¶
 
@@ -182,11 +181,7 @@
 益。誡勸二門者誡門即正說觀門。勸門即勸¶
 求佛身。誡謂誡惡勸謂勸善。¶
 
-3弟子品(五-七)
-:PROPERTIES:
-:head: 弟子品
-:END:
-
+* 弟子品
 
 弟子品折伏無為緣集二。初¶
 敘意分章。二隨章釋義三。初正明此品來意¶
